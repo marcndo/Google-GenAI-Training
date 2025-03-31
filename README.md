@@ -17,7 +17,7 @@ This training program provides in-depth knowledge of generative AI, focusing on 
 
 ## Training Objectives
 Day 1: Introduction to Generative AI, foundational concepts, and neural network architectures.
-Day 2: #
+Day 2: Introduction to embeddings, vector databases, and their use in classifying, comparing, and evaluating textual data in LLM applications.
 Day 3: #
 Day 4: #
 Day 5: Capstone project: Applying learned concepts to a real-world generative AI problem.
