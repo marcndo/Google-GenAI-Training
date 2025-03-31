@@ -2,15 +2,15 @@
 Welcome to my GitHub repository for the 5-day Intensive GenAI Training Program offered by Google and Kaggle. In this repository, you will find all the assignments, exercises, and the capstone project that I completed during the training. This repository serves as a practical demonstration of my learning in the field of Generative AI (GenAI).
 
 ## Table of Contents
-[Overview](#Overview)
-[Training Objectives](#Training-Objectives)
-[Assignments](#Assignments)
-[Capstone Project](#Capstone=Project)
-[Technologies Used](#Technologies=Used)
-[Setup & Installation](#Setup=&-Installation)
-[Resources](#Resources)
-[License](#License)
-[Contact](#Contact)
+* [Overview](#Overview)
+* [Training Objectives](#Training-Objectives)
+* [Assignments](#Assignments)
+* [Capstone Project](#Capstone=Project)
+* [Technologies Used](#Technologies=Used)
+* [Setup & Installation](#Setup=&-Installation)
+* [Resources](#Resources)
+* [License](#License)
+* [Contact](#Contact)
 
 ## Overview
 This training program provides in-depth knowledge of generative AI, focusing on various tools, frameworks, and models that drive the future of artificial intelligence. The course covers foundational topics such as neural networks, transformers, and GANs (Generative Adversarial Networks), as well as practical applications like text generation, image creation, and more.
@@ -83,8 +83,8 @@ Running the Code:
 
 ### Contact
 If you have any questions or would like to discuss any of the content in this repository, feel free to reach out:
-Email: dowahmarcel@gmail.com
-[LinkedIn](https://www.linkedin.com/in/marcelndowah/)
+* Email: dowahmarcel@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/marcelndowah/)
 
 
 
